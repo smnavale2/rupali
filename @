@@ -1,0 +1,12 @@
+Revert "Revert "second line data""
+original line again
+This reverts commit 61677f4434d9fd65c159f164edffa926fefad0f9.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   data
+#
